@@ -34,6 +34,7 @@ const tours = [
     maxGroupSize: 8,
     desc: "this is the description",
     reviews: [
+    
       {
         name: "jhon doe",
         rating: 4.6,
@@ -41,7 +42,7 @@ const tours = [
     ],
     avgRating: 4.5,
     photo: tourImg02,
-    featured: true,
+    featured:false,
   },
   {
     id: "03",
@@ -56,10 +57,11 @@ const tours = [
         name: "jhon doe",
         rating: 4.6,
       },
+   
     ],
     avgRating: 4.5,
     photo: tourImg03,
-    featured: true,
+    featured: false,
   },
   {
     id: "04",
@@ -70,14 +72,11 @@ const tours = [
     maxGroupSize: 8,
     desc: "this is the description",
     reviews: [
-      {
-        name: "jhon doe",
-        rating: 4.6,
-      },
+  
     ],
     avgRating: 4.5,
     photo: tourImg04,
-    featured: true,
+    featured: false,
   },
   {
     id: "05",
@@ -88,10 +87,7 @@ const tours = [
     maxGroupSize: 8,
     desc: "this is the description",
     reviews: [
-      {
-        name: "jhon doe",
-        rating: 4.6,
-      },
+    
     ],
     avgRating: 4.5,
     photo: tourImg05,
@@ -106,10 +102,7 @@ const tours = [
     maxGroupSize: 8,
     desc: "this is the description",
     reviews: [
-      {
-        name: "jhon doe",
-        rating: 4.6,
-      },
+   
     ],
     avgRating: 4.5,
     photo: tourImg06,
@@ -128,10 +121,11 @@ const tours = [
         name: "jhon doe",
         rating: 4.6,
       },
+   
     ],
     avgRating: 4.5,
     photo: tourImg07,
-    featured: false,
+    featured: true,
   },
   {
     id: "08",
@@ -142,15 +136,11 @@ const tours = [
     maxGroupSize: 8,
     desc: "this is the description",
     reviews: [
-      {
-        name: "jhon doe",
-        rating: 4.6,
-      },
+    
     ],
     avgRating: 4.5,
     photo: tourImg03,
     featured: false,
   },
 ];
-
 export default tours;
