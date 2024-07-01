@@ -161,7 +161,36 @@ const Home = () => {
     {/* {testimonialsection end} */}
     {/* {newsletter start} */}
     <Newsletter />
+..
+<div className=".
+.
 
+
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+..
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+"></div>
     </>
 );
 };
